@@ -8,7 +8,7 @@ import org.springframework.stereotype.Service;
 import com.gx.dao.StudentMapper;
 import com.gx.model.Student;
 
-//@Service
+@Service
 public class StudentService {
 
 	@Autowired
